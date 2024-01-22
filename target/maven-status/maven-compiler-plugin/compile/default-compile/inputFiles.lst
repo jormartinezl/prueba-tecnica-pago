@@ -1,0 +1,11 @@
+/Users/apple/Documents/workspace/PagoService/src/main/java/com/bancobase/pagoservice/repository/PagoRepository.java
+/Users/apple/Documents/workspace/PagoService/src/main/java/com/bancobase/pagoservice/model/dto/PagoDto.java
+/Users/apple/Documents/workspace/PagoService/src/main/java/com/bancobase/pagoservice/config/ModelMapperPago.java
+/Users/apple/Documents/workspace/PagoService/src/main/java/com/bancobase/pagoservice/controller/PagoController.java
+/Users/apple/Documents/workspace/PagoService/src/main/java/com/bancobase/pagoservice/validators/EstatusValido.java
+/Users/apple/Documents/workspace/PagoService/src/main/java/com/bancobase/pagoservice/service/PagoService.java
+/Users/apple/Documents/workspace/PagoService/src/main/java/com/bancobase/pagoservice/config/KafkaConfiguration.java
+/Users/apple/Documents/workspace/PagoService/src/main/java/com/bancobase/pagoservice/PagoServiceApplication.java
+/Users/apple/Documents/workspace/PagoService/src/main/java/com/bancobase/pagoservice/model/entity/Pago.java
+/Users/apple/Documents/workspace/PagoService/src/main/java/com/bancobase/pagoservice/validators/EstatusValidoValidator.java
+/Users/apple/Documents/workspace/PagoService/src/main/java/com/bancobase/pagoservice/model/enums/EstatusPago.java

@@ -1,0 +1,3 @@
+com/bancobase/pagoservice/PagoServiceApplicationTests.class
+com/bancobase/pagoservice/service/PagoServiceTest.class
+com/bancobase/pagoservice/controller/PagoControllerTest.class
